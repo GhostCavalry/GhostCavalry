@@ -1,4 +1,3 @@
-I'm trying to improve my skills on Flutter. I would like to share all my codes in the next days too.
+A junior Flutter developer striving to improve in the field of artificial intelligence.
 
 
-to be edited later
